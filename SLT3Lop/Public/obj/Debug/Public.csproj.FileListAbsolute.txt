@@ -1,0 +1,5 @@
+D:\Study\C#\SLT3Lop\Public\bin\Debug\Public.dll
+D:\Study\C#\SLT3Lop\Public\bin\Debug\Public.pdb
+D:\Study\C#\SLT3Lop\Public\obj\Debug\Public.csprojResolveAssemblyReference.cache
+D:\Study\C#\SLT3Lop\Public\obj\Debug\Public.dll
+D:\Study\C#\SLT3Lop\Public\obj\Debug\Public.pdb

@@ -1,0 +1,8 @@
+D:\Study\C#\SLT3Lop\DAL\bin\Debug\DAL.dll.config
+D:\Study\C#\SLT3Lop\DAL\bin\Debug\DAL.dll
+D:\Study\C#\SLT3Lop\DAL\bin\Debug\DAL.pdb
+D:\Study\C#\SLT3Lop\DAL\bin\Debug\Public.dll
+D:\Study\C#\SLT3Lop\DAL\bin\Debug\Public.pdb
+D:\Study\C#\SLT3Lop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Study\C#\SLT3Lop\DAL\obj\Debug\DAL.dll
+D:\Study\C#\SLT3Lop\DAL\obj\Debug\DAL.pdb

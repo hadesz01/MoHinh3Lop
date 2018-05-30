@@ -1,0 +1,9 @@
+D:\Study\C#\SLT3Lop\BUL\bin\Debug\BUL.dll
+D:\Study\C#\SLT3Lop\BUL\bin\Debug\BUL.pdb
+D:\Study\C#\SLT3Lop\BUL\bin\Debug\DAL.dll
+D:\Study\C#\SLT3Lop\BUL\bin\Debug\Public.dll
+D:\Study\C#\SLT3Lop\BUL\bin\Debug\DAL.pdb
+D:\Study\C#\SLT3Lop\BUL\bin\Debug\Public.pdb
+D:\Study\C#\SLT3Lop\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+D:\Study\C#\SLT3Lop\BUL\obj\Debug\BUL.dll
+D:\Study\C#\SLT3Lop\BUL\obj\Debug\BUL.pdb
